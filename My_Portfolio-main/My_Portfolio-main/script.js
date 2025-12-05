@@ -197,7 +197,7 @@ document.addEventListener('DOMContentLoaded', function() {
     const easterEgg = document.querySelector('.easter-egg');
     if (easterEgg) {
         easterEgg.addEventListener('click', function() {
-            this.textContent = "System: [Player Keerthi Prasath] has reached max level!";
+            this.textContent = "System: [Player Jagadesh Sivakumar] has reached max level!";
             this.style.color = "#ff0000";
             this.style.textShadow = "0 0 10px #ff0000";
             
